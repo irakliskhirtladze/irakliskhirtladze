@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @irakliskhirtladze, a self-taught programmer.
-- 👀 I’m especially interested in Python and am familiar with basics of SQL and Pandas.
+- 👋 Hi, I’m @irakliskhirtladze, a self-taught python programmer.
+- 👀 I’m especially interested in data science and am familiar with SQL and Pandas.
 - 💞️ I'd love to be able to collaborate on open source (and private) projects involving Python.
 - 📫 How to reach me: iskhirtladzei@gmail.com.
 
