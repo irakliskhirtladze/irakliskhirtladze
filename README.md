@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irakliskhirtladze, a self-taught python programmer.
-- 👀 Interested in data related fields such as data scraping, storing, analysis and machine learning. Learning more about development.
+- 👀 Interested in web Django web development, data analytics with Pandas and related topics.
 - 📫 How to reach me: iskhirtladzei@gmail.com.
 
 <!---
