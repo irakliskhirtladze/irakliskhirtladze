@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @irakliskhirtladze, a self-taught python programmer.
-- 👀 Interested in web Django web development, data analytics with Pandas and related topics.
-- 📫 How to reach me: iskhirtladzei@gmail.com.
+- 👋 Hi, I’m @irakliskhirtladze.
+- 👀 Mainly developing QT desktop software with data analytics, computer vision, integrated APIs and other kinds of backends.
+- 📫 How to reach me: irskhirtladze@gmail.com.
 
 <!---
 irakliskhirtladze/irakliskhirtladze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
